@@ -1,0 +1,37 @@
+{
+    "serverName": "🔥​ Un Serveur Hebergé chez OcraHost.fr 🔥​",
+    "serverListName": "🔥​ Un Serveur Hebergé chez OcraHost.fr 🔥​",
+    "description": "",
+    "password": "",
+    "serverSlot": 10,
+    "thumbnailUrl": "",
+    "serverLogo": "",
+    "serverPort": 7777,
+    "socketSecret": "",
+    "menuCameraPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "menuCameraRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "isPublicServer": true,
+    "useAdminPinAuth": false,
+    "tabletUrl": "",
+    "useLifeApp": false,
+    "isWhitelisted": false,
+    "whitelist": {
+        "intro": "",
+        "questions": [],
+        "date": ""
+    },
+    "autoSaveIntervalSeconds": 1800.0,
+    "disconnectClientsBeforeStop": true,
+    "maxCharactersPerAccount": 3,
+    "mapId": 1,
+    "serverFramerate": 60,
+    "hasShop": false
+}
